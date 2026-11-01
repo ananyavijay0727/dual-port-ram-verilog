@@ -1,0 +1,21 @@
+# Quartus build output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+*.summary
+*.smsg
+
+# ModelSim / simulator output
+work/
+transcript
+*.wlf
+*.vcd
+vsim.wlf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
